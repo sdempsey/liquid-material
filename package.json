@@ -1,24 +1,24 @@
 {
-  "name": "Boilerplate",
+  "name": "LiquidMaterial",
   "version": "1.0.0",
-  "description": "Templating Boilerplate",
+  "description": "Farting around on codepen",
   "repository": {
     "type": "git",
-    "url": "https://github.com/deptofjeffayer/Boilerplate"
+    "url": "https://github.com/sdempsey/liquid-material"
   },
   "main": "index.js",
   "scripts": {
     "test": "grunt"
   },
-  "author": "Jeff Ayer",
+  "author": "Sean Demspey",
   "license": "ISC",
   "devDependencies": {
-    "consolidate": "^0.13.1",
-    "express": "^4.13.3",
+    "consolidate": "^0.14.0",
+    "express": "^4.13.4",
     "grunt": "^0.4.5",
-    "grunt-autoprefixer": "^2.0.0",
+    "grunt-autoprefixer": "^3.0.3",
     "grunt-contrib-concat": "^0.5.1",
-    "grunt-contrib-jshint": "^0.11.3",
+    "grunt-contrib-jshint": "^0.12.0",
     "grunt-contrib-watch": "^0.6.1",
     "grunt-express-server": "^0.5.1",
     "grunt-sass": "^1.1.0",
